@@ -5,7 +5,7 @@ All notable changes to the cafeteria menu system will be documented in this file
 
 ### 🎯 Task 4 Conflict Zone - DO NOT EDIT TILL TASK 4!
 ## [Unreleased] EDIT THIS LINE FOR CONFLICT
-- Version 1.1.0 - Added gluten-free options
+- Version 1.1.0 - Added vegetarian and gluten-free options
 
 ---
 
